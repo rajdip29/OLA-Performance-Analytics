@@ -105,8 +105,3 @@ The analysis reveals that operational efficiency can be improved by:
 - Reducing Cancellations: Addressing driver unavailability and reducing wait times.
 - Dynamic Pricing: Implementing surge pricing during peak hours to balance supply and demand.
 - nDriver Incentives: Rewarding top-performing drivers to boost service quality.
-
-# Future Work
-- Integrate real-time data to optimize ride dispatching.
-- Analyze customer feedback for service improvement.
-- Compare OLA’s performance with competitors to identify market gaps.
