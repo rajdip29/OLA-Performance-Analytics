@@ -2,10 +2,10 @@
 # OLA-Performance-Analytics-Using-SQL-and-Power-BI 
 
 # Project Overview
-This project focuses on analyzing OLA ride data to uncover operational inefficiencies, improve performance, and enhance customer satisfaction. By leveraging SQL for data exploration and Power BI for visualization, the analysis provides actionable insights to support data-driven business decisions.
+This project focuses on analysing OLA ride data to uncover operational inefficiencies, improve performance, and enhance customer satisfaction. By leveraging SQL for data exploration and Power BI for visualisation, the analysis provides actionable insights to support data-driven business decisions.
 
 # Objectives
-- Analyze booking trends, cancellation reasons, customer ratings, and revenue metrics.
+- Analyse booking trends, cancellation reasons, customer ratings, and revenue metrics.
 - Identify patterns affecting operational performance and customer satisfaction.
 - Provide visual insights through interactive Power BI dashboards.
 - Recommend strategies to reduce cancellations and improve service efficiency.
@@ -105,3 +105,7 @@ The analysis reveals that operational efficiency can be improved by:
 - Reducing Cancellations: Addressing driver unavailability and reducing wait times.
 - Dynamic Pricing: Implementing surge pricing during peak hours to balance supply and demand.
 - nDriver Incentives: Rewarding top-performing drivers to boost service quality.
+
+
+## 🤝 Connect  
+If you find this project helpful, feel free to ⭐ the repo and connect with me on [LinkedIn](https://www.linkedin.com/in/rajdip-dutta07/).
